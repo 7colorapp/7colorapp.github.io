@@ -10,9 +10,7 @@ tags:
     - Cleaner
 ---
 
-## **Phone Cleaner**
-
-### **Privacy policy**
+## **Privacy policy**
 
 This privacy policy governs your use of the software application Phone Cleaner.
 

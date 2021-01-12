@@ -10,8 +10,6 @@ tags:
     - Cleaner
 ---
 
-## **Phone Cleaner**
-
 ## **Terms of use**
 
 The following Terms of Use (“Terms”) apply when you use the Phone Cleaner app (the “App”) or the service provided via the App (the “Service”), sometimes collectively referred to as the “App.” Please review these Terms carefully. By accessing or using the App, you show you agree to these Terms. If you don’t agree to these Terms, you may not access or use the App.
