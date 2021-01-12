@@ -10,7 +10,7 @@ tags:
     - Cleaner
 ---
 
-## *Phone Cleaner**
+## **Phone Cleaner**
 
 ## **Terms of use**
 
