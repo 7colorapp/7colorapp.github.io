@@ -24,7 +24,7 @@ Application does not contains any third party analytics and we do not collect an
 
 ### **Changes**
 
-This Privacy Policy may be updated from time to time for any reason. Any changes to our Privacy Policy will be updated by posting the new Privacy Policy on our website https://icreamapp.home.blog/2021/01/12/privacy-policy-10/. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes
+This Privacy Policy may be updated from time to time for any reason. Any changes to our Privacy Policy will be updated by posting the new Privacy Policy on our website https://7colorapp.github.io/2021/01/12/Cleaner-Privacy/. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes
 
 ### **Contact us**
 
